@@ -14,7 +14,8 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM), con e
 - 🧱 **Frameworks**: Spring Boot (en curso), Vue (nivel básico)
 - 🗃️ **Bases de datos**: MySQL, PostgreSQL, MongoDB
 - 🐳 **Contenedores**: Docker (uso básico)
-- 🔧 **Experiencia práctica**:
+- 🔧 **Control de versiones**: Git y GitHub
+- 📚 **Experiencia práctica**:
   - Conexiones manuales a BBDD con DAOs
   - Desarrollo de un primer proyecto con Spring Boot
   - Práctica básica de integración con MongoDB y Vue
