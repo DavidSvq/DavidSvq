@@ -13,7 +13,7 @@ Soy estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM), con e
 - 💻 **Lenguajes**: Java, HTML, CSS, JavaScript, SQL, PostgreSQL
 - 🧱 **Frameworks**: Spring Boot (en curso), Vue (nivel básico)
 - 🗃️ **Bases de datos**: MySQL, PostgreSQL, MongoDB
-- 🐳 **Contenedores**: Docker (uso básico)
+- 🐳 **Contenedores**: Docker (nivel básico)
 - 🔧 **Control de versiones**: Git y GitHub
 - 📚 **Experiencia práctica**:
   - Conexiones manuales a BBDD con DAOs
