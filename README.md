@@ -1,10 +1,11 @@
 <h1 align="center">¡Hola! 👋 Soy David</h1>
-<h3 align="center">Estudiante de 2º DAM con interés en desarrollo backend</h3>
+<h3 align="center">Desarrollador de aplicaciones multiplataforma</h3>
+<h3 align="center">Estudiante grado especialización FP en IA y Big Data</h3>
 
 ---
 
 🎓 **Actualmente**  
-Soy estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM), con especial interés en el desarrollo backend. Me encuentro ampliando conocimientos y prácticas mientras inicio mi búsqueda de mi primer empleo en el sector.
+Soy desarrollador de aplicaciones multiplataforma, con especial interés en el desarrollo backend. Me encuentro ampliando conocimientos y prácticas mientras inicio mi búsqueda de mi primer empleo en el sector.
 
 ---
 
